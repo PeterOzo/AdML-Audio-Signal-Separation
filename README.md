@@ -508,7 +508,6 @@ pip install -r requirements.txt
 # - voice2.wav (male voice) 
 # - music.wav (instrumental track)
 ```
-
 ---
 
 ## Usage
@@ -664,10 +663,6 @@ pca-ica-analysis/
 └── README.md                     # This documentation
 ```
 
-
-
-```
-
 ### Environment Specifications
 - **Python**: 3.8+
 - **NumPy**: 1.19+
@@ -681,7 +676,7 @@ pca-ica-analysis/
 - **Memory**: 4GB RAM minimum, 8GB recommended
 - **Audio**: Sound card for audio playback (optional)
 - **Storage**: 100MB for audio files and results
-
+---
 ---
 
 ## Conclusion
@@ -699,10 +694,6 @@ This comprehensive analysis of PCA and ICA demonstrates the fundamental differen
 The project provides valuable insights for practitioners choosing between different signal separation methods, highlighting the importance of considering both statistical properties and application-specific requirements in algorithm selection.
 
 ---
-
-
-
-
 
 ---
 
