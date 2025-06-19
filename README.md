@@ -1,12 +1,10 @@
-## AdML-Audio-Signal-Separation
-
+## Advanced Machine Learning Audio-Signal-Separation
 
 ### Advanced Machine Learning: Principal Component Analysis (PCA) and Independent Component Analysis (ICA)
 
 ### Project Overview
 
 This repository contains a comprehensive implementation and analysis of **Principal Component Analysis (PCA)** and **Independent Component Analysis (ICA)** techniques, developed for **Advanced Machine Learning**. The project combines rigorous mathematical theory with practical applications, focusing on the **cocktail party problem** for audio signal separation and comparing multiple decomposition methods.
-
 
 
 ### Mathematical Foundations
