@@ -20,7 +20,7 @@ A classic problem in signal processing where multiple audio sources are mixed to
 
 ---
 
-### Exercise 1: PCA Theoretical Analysis
+### PCA Theoretical Analysis
 
 ### Mathematical Proof: Second Principal Component
 
@@ -104,7 +104,7 @@ This proof demonstrates that the second principal component naturally emerges fr
 
 ---
 
-## Exercise 2: Audio Signal Separation
+## Audio Signal Separation
 
 ### The Cocktail Party Problem Implementation
 
